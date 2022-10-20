@@ -1,7 +1,7 @@
 # DatabricksLabs
 ## Azure Databricks Lakehouse labs
 
-You can find the notebooks/queries relevant to the labs topic under each folder, [DE](https://github.com/ececilio-databricks/DatabricksLabs/tree/main/DE)  for Data Engineering, SQL for Databricks SQL, ML for Machine Learning.
+You can find the notebooks/queries relevant to the labs topic under each folder, [DE](https://github.com/ececilio-databricks/DatabricksLabs/tree/main/DE)  for Data Engineering, [SQL](https://github.com/ececilio-databricks/DatabricksLabs/tree/main/SQL) for Databricks SQL, [ML](https://github.com/ececilio-databricks/DatabricksLabs/tree/main/ML) for Machine Learning.
 
 You can import the notebook directly into your workspace through the Github URL.
 
